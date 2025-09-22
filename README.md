@@ -4,11 +4,17 @@
 <h3 align="center">a computer science student from the philippines</h3>
 
 <p align="center">hi! my name is cyjen (also known as cyn or relle) and i'm a coder, multimedia artist, streamer, and singer currently in high school. <br>
-also filipino, disabled, adhd, trans, and queer with pronouns! <em>aka the nightmare blunt rotation /j</em> <br>
-i mainly code either what assignments i get at school or whatever projects i get ideas for even though it takes long for me to finish them. <br>
-a majority of what i code is html, css, and javascript, as i enjoy designing webpages and stuff, but sometimes i'll work with java or python! <br>
-learning godot game development and java at the moment this school year. in the future will be learning c i believe.</p>
+++ filipino, disabled, adhd, trans, and queer with pronouns! <em>aka the nightmare blunt rotation /j</em> <br>
+i mainly code either what assignments i get at school or whatever projects i get ideas for even though it takes long for me to finish them. and a majority of what i code is html, css, and javascript, but sometimes i work with java or python! <br>
+currently learning: godot game development and java. in the future will be learning c or c# for school.</p>
 
+<p align="center">
+  <a href="https://www.ppath.org/"><img src="https://files.catbox.moe/ewjpoh.gif"></a>
+  <a href="https://projectinclusion.ph/"><img src="https://files.catbox.moe/7t3h6l.gif"></a>
+  <a href="https://palestinegazaaid.carrd.co/"><img src="https://files.catbox.moe/3tdg2q.gif"></a> <br>
+  gifs link to charities / organisations <3
+</p>
+  
 <hr> 
 
 <h3 align="center">socials / contacts</h3>
