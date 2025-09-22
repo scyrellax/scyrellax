@@ -9,6 +9,10 @@ i mainly code either what assignments i get at school or whatever projects i get
 currently learning: godot game development and java. in the future will be learning c or c# for school.</p>
 
 <p align="center">
+  current projects: <a href="https://github.com/scyrellax/mcsr-anything-bot">mcsr anything twitter bot</a> and gamedev course 2d platformer!
+</p>
+
+<p align="center">
   <a href="https://www.ppath.org/"><img src="https://files.catbox.moe/ewjpoh.gif"></a>
   <a href="https://projectinclusion.ph/"><img src="https://files.catbox.moe/7t3h6l.gif"></a>
   <a href="https://palestinegazaaid.carrd.co/"><img src="https://files.catbox.moe/3tdg2q.gif"></a> <br>
