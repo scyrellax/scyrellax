@@ -35,7 +35,7 @@
   <summary>stats if you even care</summary>
     <img src="https://github-readme-stats.vercel.app/api?username=scyrellax&show_icons=true&card_width=320&layout=compact&theme=vision-friendly-dark" height="150" alt="stats graph"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scyrellax&layout=compact&card_width=320&theme=vision-friendly-dark" height="150" alt="languages graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scyrellax&langs_count=6&layout=compact&card_width=320&theme=vision-friendly-dark" height="150" alt="languages graph"/>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">github readme stats widget thing</a>
 </details>
