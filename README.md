@@ -3,8 +3,8 @@
 # yo, i'm cyjen
 ### a computer science student from the philippines
 
-- hi! my name is cyjen (also known as cyn or relle) and i'm a coder, multimedia artist, streamer, and singer currently in high school. <br>
-- ++ filipino, disabled, adhd, trans, and queer with pronouns! <em>aka the nightmare blunt rotation</em>
+- hi! my name is cyjen (also known as cyn or relle) and i'm a coder, multimedia artist, streamer, writer, and singer currently in high school. <br>
+    - ++ filipino, disabled, adhd, trans, and queer with pronouns! <em>(aka the nightmare blunt rotation)</em>
 - i mainly code either what assignments i get at school or whatever projects i get ideas for even though it takes long for me to finish them. i mainly do web dev, but sometimes i work with python or java!
 - currently learning:
     - godot game development and java both for school.
@@ -31,7 +31,17 @@
   <a href="https://twitch.tv/cyjen_" target="blank">twitch</a>
 </p>
 
-<h3 align="center">languages / tools</h3>
+<details>
+  <summary>stats if you even care</summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=scyrellax&show_icons=true&card_width=320&layout=compact&theme=vision-friendly-dark" height="150" alt="stats graph"/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scyrellax&layout=compact&card_width=320&theme=vision-friendly-dark" height="150" alt="languages graph"/>
+    <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">github readme stats widget thing</a>
+</details>
+
+<details>
+  <summary>languages / tools i use</summary>
 <p align="center">most experienced</p>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -57,3 +67,5 @@
   <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
+</details>
+
