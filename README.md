@@ -1,25 +1,27 @@
 <p align="center"><img src="https://media1.tenor.com/m/4tcRXVu-yJ0AAAAC/an-shiraishi-mizuki-akiyama.gif"></p>
 
-<h1 align="center">yo, i'm cyjen,</h1>
-<h3 align="center">a computer science student from the philippines</h3>
+# yo, i'm cyjen
+### a computer science student from the philippines
 
-<p align="center">hi! my name is cyjen (also known as cyn or relle) and i'm a coder, multimedia artist, streamer, and singer currently in high school. <br>
-++ filipino, disabled, adhd, trans, and queer with pronouns! <em>aka the nightmare blunt rotation /j</em> <br>
-i mainly code either what assignments i get at school or whatever projects i get ideas for even though it takes long for me to finish them. and a majority of what i code is html, css, and javascript, but sometimes i work with java or python! <br>
-currently learning: godot game development and java. in the future will be learning c or c# for school.</p>
+- hi! my name is cyjen (also known as cyn or relle) and i'm a coder, multimedia artist, streamer, and singer currently in high school. <br>
+- ++ filipino, disabled, adhd, trans, and queer with pronouns! <em>aka the nightmare blunt rotation</em>
+- i mainly code either what assignments i get at school or whatever projects i get ideas for even though it takes long for me to finish them. i mainly do web dev, but sometimes i work with python or java!
+- currently learning:
+    - godot game development and java both for school.
+    - in the future will be learning c or c# also for school.
+- current projects:
+    - [mcsr anything twitter bot](https://github.com/scyrellax/mcsr-anything-bot)
+    - gamedev course 2d platformer!
+    - [nekoweb site](https://github.com/scyrellax/cyjen-nekoweb) <- on hold
 
 <p align="center">
-  current projects: <a href="https://github.com/scyrellax/mcsr-anything-bot">mcsr anything twitter bot</a> and gamedev course 2d platformer!
-</p>
-
-<p align="center">
-  <a href="https://www.ppath.org/"><img src="https://files.catbox.moe/ewjpoh.gif"></a>
-  <a href="https://projectinclusion.ph/"><img src="https://files.catbox.moe/7t3h6l.gif"></a>
-  <a href="https://palestinegazaaid.carrd.co/"><img src="https://files.catbox.moe/3tdg2q.gif"></a> <br>
-  gifs link to charities / organisations <3
+  <a href="https://www.ppath.org/" target="blank"><img src="https://files.catbox.moe/ewjpoh.gif"></a>
+  <a href="https://projectinclusion.ph/" target="blank"><img src="https://files.catbox.moe/7t3h6l.gif"></a>
+  <a href="https://palestinegazaaid.carrd.co/" target="blank"><img src="https://files.catbox.moe/3tdg2q.gif"></a> <br>
+  gifs link to charities / ngos <3
 </p>
   
-<hr> 
+---
 
 <h3 align="center">socials / contacts</h3>
 <p align="center">
