@@ -24,11 +24,11 @@
 ---
 
 <h3 align="center">socials / contacts</h3>
-<p align="center">
-  <a href="http://discord.com/users/989855653910687864" target="blank">discord</a> ;
-  <a href="https://twitter.com/scyrellax" target="blank">twitter</a> ; 
-  <a href="https://youtube.com/@cyjen_" target="blank">main youtube</a> ;
-  <a href="https://twitch.tv/cyjen_" target="blank">twitch</a>
+<p align="center"> 
+  <a href="http://discord.com/users/989855653910687864" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/discord-11.svg" alt="Discord" width="35" height="40"/> </a> 
+    <a href="https://twitter.com/scyrellax" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter" width="40" height="40"/> </a> 
+  <a href="https://youtube.com/@cyjen_" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" alt="YouTube" width="40" height="40"/> </a>
+  <a href="https://twitch.tv/cyjen_" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/twitch-purple.svg" alt="Twitch" width="40" height="30"/> </a> 
 </p>
 
 <details>
