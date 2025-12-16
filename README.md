@@ -8,7 +8,7 @@
 - i mainly code either what assignments i get at school or whatever projects i get ideas for even though it takes long for me to finish them. i mainly do web dev, but sometimes i work with python or java!
 - currently learning:
     - godot game development and java both for school.
-    - in the future will be learning c or c# also for school.
+    - always learning more about web dev LOL
 - current projects:
     - important secret website :)
     - [mcsr anything twitter bot](https://github.com/scyrellax/mcsr-anything-bot)
