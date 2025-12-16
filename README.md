@@ -10,6 +10,7 @@
     - godot game development and java both for school.
     - in the future will be learning c or c# also for school.
 - current projects:
+    - important secret website :)
     - [mcsr anything twitter bot](https://github.com/scyrellax/mcsr-anything-bot)
     - gamedev course 2d platformer!
     - [nekoweb site](https://github.com/scyrellax/cyjen-nekoweb) <- on hold
