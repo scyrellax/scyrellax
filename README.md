@@ -8,12 +8,17 @@
 - i mainly code either what assignments i get at school or whatever projects i get ideas for even though it takes long for me to finish them. i mainly do web dev, but sometimes i work with python or java!
 - currently learning:
     - godot game development and java both for school.
-    - always learning more about web dev LOL
+    - always learning more web dev LOL
 - current projects:
     - important secret website :)
     - [mcsr anything twitter bot](https://github.com/scyrellax/mcsr-anything-bot)
     - gamedev course 2d platformer!
     - [nekoweb site](https://github.com/scyrellax/cyjen-nekoweb) <- on hold
+- i mainly code small 'sites' on pastry.diy!
+    - [.diy/yukika](https://pastry.diy/yukika)
+    - [.diy/meloetta (free to use template !)](https://pastry.diy/meloetta)
+    - [.diy/aster for jira](https://pastry.diy/aster)
+    - [.diy/data for vibez](https://pastry.diy/data)
 
 <p align="center">
   <a href="https://www.ppath.org/" target="blank"><img src="https://files.catbox.moe/ewjpoh.gif"></a>
