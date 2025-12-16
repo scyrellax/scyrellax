@@ -3,7 +3,7 @@
 # yo, i'm cyjen
 ### a (computer) science student from the philippines
 
-- hi! my name is cyjen (also known as cyn or relle) and i'm a coder, multimedia artist (digital art, graphic design, crafts), streamer, writer, and singer currently in high school. <br>
+- hi! my name is cyjen (also known as cyn or relle) and i'm a coder, multimedia artist (digital art, graphic design, crafts), writer, singer, and (fake) streamer currently in high school. <br>
     - ++ filipino, disabled, adhd, trans, and queer with pronouns! <em>(aka the nightmare blunt rotation)</em>
 - i mainly code either what assignments i get at school or whatever projects i get ideas for even though it takes long for me to finish them. i mainly do web dev, but sometimes i work with python or java!
 - currently learning:
